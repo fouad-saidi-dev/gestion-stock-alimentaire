@@ -9,4 +9,4 @@
 <img src="captures/stocks-product.png" />
 <h4>Interface for add stock :</h4>
 <p>URL : http://127.0.0.1:8000/api/stock/create</p>
-<img src="captures/stocks-product.png" />
+<img src="captures/add-stock.png" />
